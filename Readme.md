@@ -1,4 +1,4 @@
-### dikti — Fetch university students details from Indonesian Ministry of Education database
+### dikti — Fetch university students status from Indonesian Ministry of Education database
 
 Usage:
 
