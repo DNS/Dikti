@@ -1,5 +1,5 @@
 dikti — Fetch university students status from Indonesian Ministry of Education database
-=======
+---------------------------------------------------------------------------------------
 
 Usage:
 
